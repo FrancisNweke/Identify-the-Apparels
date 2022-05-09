@@ -1,0 +1,10 @@
+# Thanks to this site for the initial solution: https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/
+
+# How to install(for example): pip install pandas
+
+pandas~=1.4.1
+tensorflow~=2.8.0
+scikit-learn~=1.0.1
+tqdm~=4.62.3
+numpy~=1.22.2
+keras~=2.8.0
